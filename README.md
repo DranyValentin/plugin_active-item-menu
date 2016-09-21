@@ -8,6 +8,6 @@
 		<li><a href="#anchor-content3">Текст 2</a>
 	</ul>
 
-Plugin select active item menu while scrolling
+## Plugin select active item menu while scrolling
 
 
