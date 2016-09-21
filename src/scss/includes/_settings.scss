@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+@import url("/css/fonts.css");
+
+//Main setup
+$width: 1200px;
+$fontSize: 18px;
+$orange: #FDC530;
+$yellow: #F6E700;
+$red: #E30616;
+$green: #007933;
+
+body, header, main, footer, div, p, h1, h2, h3, figure, figcaption, a  
+{
+	font-size: $fontSize;
+	font-family: 'Open Sans', Arial, Impact;
+}
+
+ul, li
+{
+	margin: 0;
+	padding: 0;
+}
+
+*
+{
+	box-sizing: border-box;
+}

@@ -1,0 +1,36 @@
+@import "includes/settings";
+
+
+.active_list
+{
+	li
+	{
+		a
+		{
+			&:hover
+			{
+				cursor: pointer;
+				text-decoration: none;
+			}
+		}
+	}
+}
+
+.active-content-menu
+{
+	text-decoration: none;
+}
+
+.wr-content
+{
+	max-width: 300px;
+	max-height: 300px;
+	overflow: overlay;
+
+	margin-top: 30px;
+	padding-right: 20px;
+}
+
+
+
+
