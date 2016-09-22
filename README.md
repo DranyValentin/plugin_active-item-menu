@@ -13,7 +13,7 @@
 		<li><a href="#anchor-content-1" class="active-content-menu">Текст 1</a>
 		<li><a href="#anchor-content-2">Текст 2</a>
 		...
-		<li><a href="#anchor-content-3">Текст 2</a>
+		<li><a href="#anchor-content-n">Текст 2</a>
 	</ul>
 	<div class="wr-content">
 		<div id="anchor-content-1">
